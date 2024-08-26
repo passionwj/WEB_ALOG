@@ -1,0 +1,5 @@
+server install
+crawler for stock information
+SMS or other message reminders
+web display
+ visualization
