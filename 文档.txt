@@ -1,0 +1,8 @@
+服务器lnmp部署文档
+nginx.conf配置
+python爬虫
+pythonweb
+java接口自动化
+python接口自动化
+jiavaUI自动化
+测试工具：填充数据尤其是复杂输入
