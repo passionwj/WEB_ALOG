@@ -1,0 +1,21 @@
+1if there is not local file repository,create one
+2init 
+git init
+
+3if you have local repository,ignore 1and 2 step,then add file to file repository
+git add.
+or
+git add <filename>
+
+4commit your changes
+git commit -m "some describe"
+
+5if not add remote repository,add it,if added,ignory
+git remote add origin <url from git>
+
+6push your data to remote repository which is github
+git push -u origin master\main
+
+7if you have cloned the remote repository,and you want to update local repository
+git pull origin master\main
+
